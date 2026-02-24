@@ -98,7 +98,7 @@ const isMenuOpen = ref(false);
                             <Smartphone class="w-7 h-7" />
                         </div>
                         <h3 class="text-xl font-bold mb-4">Android Dev</h3>
-                        <p class="text-slate-500 text-sm leading-relaxed">High-performance mobile applications built with Kotlin and modern architectural patterns.</p>
+                        <p class="text-slate-500 text-sm leading-relaxed">High-performance mobile applications built with Java and modern architectural patterns.</p>
                     </div>
 
                     <div class="group p-10 rounded-3xl bg-white border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300">
@@ -114,7 +114,7 @@ const isMenuOpen = ref(false);
                             <Globe class="w-7 h-7" />
                         </div>
                         <h3 class="text-xl font-bold mb-4">API Design</h3>
-                        <p class="text-slate-500 text-sm leading-relaxed">Scalable RESTful and GraphQL APIs designed for speed, security, and integration.</p>
+                        <p class="text-slate-500 text-sm leading-relaxed">Scalable RESTful APIs designed for speed, security, and integration.</p>
                     </div>
                 </div>
             </div>
