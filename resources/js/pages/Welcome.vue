@@ -7,7 +7,7 @@ const isMenuOpen = ref(false);
 </script>
 
 <template>
-    <Head title="TR Tajim | Full Stack Developer" />
+    <Head title="Tajim !" />
 
     <div class="min-h-screen overflow-x-hidden bg-slate-50 font-sans text-slate-900 selection:bg-indigo-500 selection:text-white">
         <div class="pointer-events-none fixed inset-0 z-0">
